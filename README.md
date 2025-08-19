@@ -90,7 +90,7 @@ const henokh = {
 
 | 🚀 Project | 💻 Tech Stack | 🔗 Links |
 |------------|---------------|----------|
-| **🤖 PolCaBot** - AI Academic Assistant | React, Node.js, OpenAI API, MongoDB | [Demo](#) \| [Code](#) |
+| **🤖 PolCaBot** - Polibatam academy chatbot | JavaScript, python, Tailwindcss, React.js, Express.js, Ollama, Deepseek model | [Demo](#) \| [Code](#) |
 | **🅿️ Parking System** - Smart City Solution | React Native, Express.js, MySQL, Maps API | [Demo](#) \| [Code](https://github.com/iglessias/parking-system) |
 
 </div>
