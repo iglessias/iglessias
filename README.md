@@ -1,30 +1,139 @@
-# Hi there 👋 I'm Henokh  
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> Hey there! I'm Henokh
 
-🚀 Passionate Web Developer | AI Enthusiast  
-I love building modern, responsive apps with **React, Node.js, and Express**, and I’m currently working on AI chatbots.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Building+the+Future+with+Code" alt="Typing SVG" />
+</div>
 
----
-
-## 🛠️ Tech Stack
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat) 
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat) 
-![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat) 
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)  
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=social" alt="GitHub followers" />
+</div>
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+## 🚀 About Me
+
+```typescript
+const henokh = {
+  code: ["JavaScript", "TypeScript", "Python", "SQL"],
+  technologies: {
+    frontend: ["React", "Next.js", "HTML5", "CSS3", "TailwindCSS"],
+    backend: ["Node.js", "Express.js", "RESTful APIs"],
+    database: ["MySQL", "MongoDB", "PostgreSQL"],
+    ai_ml: ["Machine Learning", "NLP", "Chatbot Development"],
+    tools: ["Git", "Docker", "VS Code", "Postman"]
+  },
+  currentFocus: "Building intelligent AI chatbots and scalable web applications",
+  challenge: "Exploring advanced AI/ML techniques for real-world solutions"
+};
+```
 
 ---
 
-## 🚀 Projects
-- 💬 **PolCaBot** – AI Chatbot for Academic Support  
-- 🅿️ **Illegal Parking Report System** – Community reporting app in Batam  
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+### Frontend Development
+![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend Development
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Database & Cloud
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### AI & Machine Learning
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/-🤗%20Hugging%20Face-yellow?style=for-the-badge)
+
+### Development Tools
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
 
 ---
 
-## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/your-link) 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?logo=vercel&logoColor=white&style=flat)](https://your-portfolio-link.com) 
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&bg_color=1a1b27&color=628fdb&line=628fdb&point=628fdb&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+[![PolCaBot](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=polcabot&theme=tokyonight)](https://github.com/YOUR_USERNAME/polcabot)
+[![Illegal Parking System](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=parking-system&theme=tokyonight)](https://github.com/YOUR_USERNAME/parking-system)
+
+</div>
+
+### 🤖 **PolCaBot** - AI Academic Assistant
+> Intelligent chatbot leveraging NLP for academic support and student engagement
+- **Tech:** React, Node.js, OpenAI API, MongoDB
+- **Features:** Natural language processing, context-aware responses, academic resource integration
+
+### 🅿️ **Illegal Parking Report System** - Smart City Solution  
+> Community-driven reporting platform for urban management in Batam
+- **Tech:** React Native, Express.js, MySQL, Google Maps API
+- **Features:** Real-time reporting, geolocation services, admin dashboard
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=tokyonight" alt="GitHub Profile Summary"/>
+</div>
+
+---
+
+## 🌐 Let's Connect & Collaborate
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://your-portfolio-link.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn"/>
+</div>
+
+<div align="center">
+  <i>⚡ "Code is poetry written in logic" ⚡</i>
+  <br><br>
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg"/>
+  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg"/>
+</div>
