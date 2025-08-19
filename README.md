@@ -5,8 +5,8 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=social" alt="GitHub followers" />
+  <img src="https://komarev.com/ghpvc/?username=iglessias&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/iglessias?label=Followers&style=social" alt="GitHub followers" />
 </div>
 
 ---
@@ -71,16 +71,16 @@ const henokh = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iglessias&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iglessias&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
+  <img src="https://streak-stats.demolab.com/?user=iglessias&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&bg_color=1a1b27&color=628fdb&line=628fdb&point=628fdb&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iglessias&theme=tokyo-night&bg_color=1a1b27&color=628fdb&line=628fdb&point=628fdb&area=true&hide_border=true" alt="GitHub Activity Graph"/>
 </div>
 
 ---
@@ -89,8 +89,8 @@ const henokh = {
 
 <div align="center">
 
-[![PolCaBot](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=polcabot&theme=tokyonight)](https://github.com/YOUR_USERNAME/polcabot)
-[![Illegal Parking System](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=parking-system&theme=tokyonight)](https://github.com/YOUR_USERNAME/parking-system)
+[![PolCaBot](https://github-readme-stats.vercel.app/api/pin/?username=iglessias&repo=polcabot&theme=tokyonight)](https://github.com/iglessias/polcabot)
+[![Illegal Parking System](https://github-readme-stats.vercel.app/api/pin/?username=iglessias&repo=parking-system&theme=tokyonight)](https://github.com/iglessias/parking-system)
 
 </div>
 
@@ -109,7 +109,7 @@ const henokh = {
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=tokyonight" alt="GitHub Profile Summary"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iglessias&theme=tokyonight" alt="GitHub Profile Summary"/>
 </div>
 
 ---
