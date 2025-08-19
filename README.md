@@ -1,67 +1,90 @@
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> Hey there! I'm Henokh
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Enthusiast;Building+the+Future+with+Code" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey%20there!%20I'm%20Henokh&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=51&descAlign=50" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=iglessias&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/iglessias?label=Followers&style=social" alt="GitHub followers" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=50&lines=Full+Stack+Developer+%F0%9F%9A%80;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Building+the+Future+with+Code+%E2%9C%A8;Open+Source+Contributor+%F0%9F%8C%9F" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=iglessias&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/iglessias?label=Followers&style=for-the-badge&color=blue" alt="GitHub followers" />
+  <img src="https://img.shields.io/badge/Focus-AI%20Development-brightgreen?style=for-the-badge" alt="Focus" />
+  <img src="https://img.shields.io/badge/Lives-Batam,%20Indonesia-red?style=for-the-badge" alt="Location" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/SP-XD" alt="CoDiNg RocKs" width="60%"/><br>
 </div>
 
 ---
 
 ## 🚀 About Me
 
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
 ```typescript
-const henokh = {
-  code: ["JavaScript", "Python", "SQL"],
-  technologies: {
-    frontend: ["React", "Next.js", "HTML5", "CSS3", "TailwindCSS"],
-    backend: ["Node.js", "Express.js", "RESTful APIs", "laravel"],
-    database: ["MySQL"],
-    ai_ml: ["Machine Learning", "NLP", "Chatbot Development"],
-    tools: ["Git", "VS Code", "Postman"]
-  },
-  currentFocus: "Building intelligent AI chatbots and scalable web applications",
-  challenge: "Exploring advanced AI/ML techniques for real-world solutions"
+const henokh: Developer = {
+    name: "Henokh Iglessias Hutasoit",
+    location: "Batam, Indonesia 🇮🇩",
+    code: ["JavaScript", "Python", "TypeScript", "SQL", "PHP"],
+    askMeAbout: ["Web Dev", "AI/ML", "Chatbots", "Tech Innovation"],
+    technologies: {
+        frontend: {
+            js: ["React", "Next.js", "Vue.js"],
+            css: ["TailwindCSS", "Bootstrap", "Styled Components"],
+            ui: ["Material-UI", "Ant Design", "Chakra UI"]
+        },
+        backend: {
+            js: ["Node.js", "Express.js"],
+            php: ["Laravel"],
+            python: ["FastAPI", "Flask"],
+            api: ["RESTful", "GraphQL", "WebSocket"]
+        },
+        database: ["MySQL", "PostgreSQL", "MongoDB", "Redis"],
+        ai_ml: ["TensorFlow", "PyTorch", "Scikit-learn", "OpenAI API", "Ollama"],
+        devOps: ["Docker", "Git", "Linux", "AWS"],
+        tools: ["VS Code", "Postman", "Figma", "Notion"]
+    },
+    currentProject: "Building intelligent AI chatbots with Deepseek model",
+    currentlyLearning: "Advanced Machine Learning & Cloud Architecture",
+    lookingFor: "Collaboration on innovative AI projects",
+    funFact: "I debug with console.log and I'm proud of it! 😄"
 };
 ```
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🛠️ Tech Arsenal & Skills
 
 <div align="center">
 
-### Frontend Development
-![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### 💻 Frontend Development
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,js,ts,html,css,tailwind,bootstrap,materialui&theme=dark" />
+</p>
 
-### Backend Development
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+### ⚙️ Backend Development  
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,python,fastapi,flask,php&theme=dark" />
+</p>
 
-### Database & Cloud
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+### 🗄️ Database & Cloud
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,docker,aws,gcp,firebase&theme=dark" />
+</p>
 
-### AI & Machine Learning
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/-🤗%20Hugging%20Face-yellow?style=for-the-badge)
+### 🤖 AI & Machine Learning
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,python,opencv&theme=dark" />
+</p>
 
-### Development Tools
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+### 🛠️ Development Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux,bash&theme=dark" />
+</p>
 
 </div>
 
@@ -70,16 +93,28 @@ const henokh = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iglessias&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iglessias&layout=compact&langs_count=8&theme=tokyonight"/>
+<table>
+<tr>
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=iglessias&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" alt="GitHub Stats" />
+
+</td>
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iglessias&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" alt="Top Languages" />
+
+</td>
+</tr>
+</table>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=iglessias&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
+  <img src="https://streak-stats.demolab.com/?user=iglessias&theme=tokyonight&hide_border=true&background=0D1117&stroke=0000&ring=F85D7F&fire=F8D866&currStreakLabel=FFFFFF" alt="GitHub Streak Stats" width="56%"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iglessias&theme=tokyo-night&bg_color=1a1b27&color=628fdb&line=628fdb&point=628fdb&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iglessias&custom_title=Henokh's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=F8D866&line=F85D7F&point=FFFFFF&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="GitHub Activity Graph"/>
 </div>
 
 ---
@@ -88,22 +123,58 @@ const henokh = {
 
 <div align="center">
 
-| 🚀 Project | 💻 Tech Stack | 🔗 Links |
-|------------|---------------|----------|
-| **🤖 PolCaBot** - Polibatam academy chatbot | JavaScript, python, Tailwindcss, React.js, Express.js, Ollama, Deepseek model | [Demo](#) \| [Code](#) |
-| **🅿️ Parking System** - Smart City Solution | React Native, Express.js, MySQL, Maps API | [Demo](#) \| [Code](https://github.com/iglessias/parking-system) |
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">🤖 PolCaBot - AI Academic Assistant</h3>
+<div align="center">  
+<a href="#" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+<a href="#" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
+<a href="#" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+</div>
+<p align="center">
+Polibatam academy chatbot leveraging Deepseek model for intelligent academic support and student engagement.
+</p>
+<p align="center">
+<a href="#" target="_blank">
+<img src="https://img.shields.io/badge/Code-View%20on%20GitHub-blue?style=for-the-badge&logo=github"/>
+</a>  
+<a href="#" target="_blank">
+<img src="https://img.shields.io/badge/Live-View%20Demo-green?style=for-the-badge&logo=vercel"/>
+</a>
+</p>
+</td>
+<td width="50%">
+<h3 align="center">🅿️ Smart Parking System</h3>
+<div align="center">  
+<a href="#" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+<a href="#" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
+<a href="#" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
+</div>
+<p align="center">
+Community-driven reporting platform for urban management in Batam with real-time geolocation services.
+</p>
+<p align="center">
+<a href="https://github.com/iglessias/parking-system" target="_blank">
+<img src="https://img.shields.io/badge/Code-View%20on%20GitHub-blue?style=for-the-badge&logo=github"/>
+</a>  
+<a href="#" target="_blank">
+<img src="https://img.shields.io/badge/Live-View%20Demo-green?style=for-the-badge&logo=vercel"/>
+</a>
+</p>
+</td>
+</tr>
+</table>
 
 </div>
 
-### 🤖 **PolCaBot** - AI Academic Assistant
-> Intelligent chatbot leveraging NLP for academic support and student engagement
-- **Tech:** React, Node.js, OpenAI API, MongoDB
-- **Features:** Natural language processing, context-aware responses, academic resource integration
+---
 
-### 🅿️ **Illegal Parking Report System** - Smart City Solution  
-> Community-driven reporting platform for urban management in Batam
-- **Tech:** React Native, Express.js, MySQL, Google Maps API
-- **Features:** Real-time reporting, geolocation services, admin dashboard
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=iglessias&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=3" alt="GitHub Trophies"/>
+</div>
 
 ---
 
@@ -113,28 +184,89 @@ const henokh = {
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iglessias&theme=tokyonight" alt="GitHub Profile Summary"/>
 </div>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iglessias&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
 ---
 
-## 🌐 Let's Connect & Collaborate
+## 🐍 GitHub Contributions
+
+<div align="center">
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+</div>
+
+---
+
+## 🌐 Connect & Collaborate
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henokh-iglessias-hutasoit-9a071527a/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://your-portfolio-link.com)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](henokh.08hts@email.com)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
+### 📱 Let's connect and build something amazing together!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henokh-iglessias-hutasoit-9a071527a/)
+[![Email](https://img.shields.io/badge/Email-henokh.08hts%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:henokh.08hts@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Website-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](#)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow%20Me-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
+
+### 💬 Ask me about anything related to:
+**Web Development** • **AI/ML** • **Chatbot Development** • **Open Source** • **Tech Innovation**
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn"/>
+  
+### 🎯 Current Goals for 2025
+
+```mermaid
+graph LR
+    A[🚀 Launch AI Projects] --> B[🌟 Contribute to Open Source]
+    B --> C[📚 Master Cloud Architecture]
+    C --> D[🤖 Build Advanced ML Models]
+    D --> E[🌍 Impact Communities]
+```
+
+</div>
+
+---
+
+## 📊 Weekly Development Breakdown
+
+```text
+JavaScript   12 hrs 30 mins  ████████████████████░  80.5%
+Python       2 hrs 15 mins   ██████░░░░░░░░░░░░░░░  14.5%
+CSS          45 mins         ██░░░░░░░░░░░░░░░░░░░   4.8%
+Other        5 mins          ░░░░░░░░░░░░░░░░░░░░░   0.2%
+```
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=fadeIn"/>
 </div>
 
 <div align="center">
-  <i>⚡ "Code is poetry written in logic" ⚡</i>
-  <br><br>
+  <h3>💭 Quote of the Day</h3>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote"/>
+</div>
+
+<div align="center">
+  <h3>⚡ Fun Fact</h3>
+  <p><i>"The best code is written when fueled by coffee and curiosity! ☕️✨"</i></p>
+  
+  <br>
+  
   <img src="https://forthebadge.com/images/badges/built-with-love.svg"/>
   <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg"/>
+  <img src="https://forthebadge.com/images/badges/makes-people-smile.svg"/>
+  
+  <br><br>
+  
+  <p><strong>⭐ From <a href="https://github.com/iglessias">Henokh Iglessias</a> with ❤️</strong></p>
+  
+  <div align="center">
+    <sub><i>Last updated: August 2025 🗓️</i></sub>
+  </div>
 </div>
