@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=50&lines=Full+Stack+Developer+%F0%9F%9A%80;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Building+the+Future+with+Code+%E2%9C%A8;Open+Source+Contributor+%F0%9F%8C%9F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=50&lines=Full+Stack+Developer+%F0%9F%9A%80;AI+%26+Enthusiast+%F0%9F%A4%96;Building+the+Future+with+Code+%E2%9C%A8;Open+Source+Contributor+%F0%9F%8C%9F" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -28,12 +28,12 @@
 ```typescript
 const henokh: Developer = {
     name: "Henokh Iglessias Hutasoit",
-    location: "Batam, Indonesia 🇮🇩",
-    code: ["JavaScript", "Python", "TypeScript", "SQL", "PHP"],
-    askMeAbout: ["Web Dev", "AI/ML", "Chatbots", "Tech Innovation"],
+    location: "Indonesia",
+    code: ["JavaScript", "Python","SQL", "PHP"],
+    askMeAbout: ["Web Dev", "AI", "Chatbots", "Tech Innovation"],
     technologies: {
         frontend: {
-            js: ["React", "Next.js", "Vue.js"],
+            js: ["React", "Next.js"],
             css: ["TailwindCSS", "Bootstrap", "Styled Components"],
             ui: ["Material-UI", "Ant Design", "Chakra UI"]
         },
@@ -41,12 +41,12 @@ const henokh: Developer = {
             js: ["Node.js", "Express.js"],
             php: ["Laravel"],
             python: ["FastAPI", "Flask"],
-            api: ["RESTful", "GraphQL", "WebSocket"]
+            api: ["RESTful"]
         },
-        database: ["MySQL", "PostgreSQL", "MongoDB", "Redis"],
+        database: ["MySQL", "PostgreSQL],
         ai_ml: ["TensorFlow", "PyTorch", "Scikit-learn", "OpenAI API", "Ollama"],
-        devOps: ["Docker", "Git", "Linux", "AWS"],
-        tools: ["VS Code", "Postman", "Figma", "Notion"]
+        devOps: [ "Git", "Linux"],
+        tools: ["VS Code", "Postman", "Figma"]
     },
     currentProject: "Building intelligent AI chatbots with Deepseek model",
     currentlyLearning: "Advanced Machine Learning & Cloud Architecture",
@@ -63,7 +63,7 @@ const henokh: Developer = {
 
 ### 💻 Frontend Development
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,js,ts,html,css,tailwind,bootstrap,materialui&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap,materialui&theme=dark" />
 </p>
 
 ### ⚙️ Backend Development  
@@ -73,7 +73,7 @@ const henokh: Developer = {
 
 ### 🗄️ Database & Cloud
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,docker,aws,gcp,firebase&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase&theme=dark" />
 </p>
 
 ### 🤖 AI & Machine Learning
