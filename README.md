@@ -89,8 +89,10 @@ const henokh = {
 
 <div align="center">
 
-[![PolCaBot](https://github-readme-stats.vercel.app/api/pin/?username=iglessias&repo=polcabot&theme=tokyonight)](https://github.com/iglessias/polcabot)
-[![Illegal Parking System](https://github-readme-stats.vercel.app/api/pin/?username=iglessias&repo=parking-system&theme=tokyonight)](https://github.com/iglessias/parking-system)
+| 🚀 Project | 💻 Tech Stack | 🔗 Links |
+|------------|---------------|----------|
+| **🤖 PolCaBot** - AI Academic Assistant | React, Node.js, OpenAI API, MongoDB | [Demo](#) \| [Code](#) |
+| **🅿️ Parking System** - Smart City Solution | React Native, Express.js, MySQL, Maps API | [Demo](#) \| [Code](https://github.com/iglessias/parking-system) |
 
 </div>
 
