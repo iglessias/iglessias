@@ -97,12 +97,12 @@ const henokh: Developer = {
 <tr>
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=iglessias&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" alt="GitHub Stats" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=iglessias&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&cache_seconds=1800" alt="GitHub Stats" />
 
 </td>
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iglessias&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" alt="Top Languages" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=iglessias&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&cache_seconds=1800" alt="Top Languages" />
 
 </td>
 </tr>
@@ -110,11 +110,11 @@ const henokh: Developer = {
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=iglessias&theme=tokyonight&hide_border=true&background=0D1117&stroke=0000&ring=F85D7F&fire=F8D866&currStreakLabel=FFFFFF" alt="GitHub Streak Stats" width="56%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iglessias&theme=tokyonight&hide_border=true&background=0D1117&stroke=0000&ring=F85D7F&fire=F8D866&currStreakLabel=FFFFFF" alt="GitHub Streak Stats" width="56%"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iglessias&custom_title=Henokh's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=F8D866&line=F85D7F&point=FFFFFF&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=iglessias&custom_title=Henokh's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=F8D866&line=F85D7F&point=FFFFFF&area_color=FFFFFF&title_color=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph"/>
 </div>
 
 ---
@@ -181,11 +181,11 @@ Community-driven reporting platform for urban management in Batam with real-time
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iglessias&theme=tokyonight" alt="GitHub Profile Summary"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iglessias&theme=github_dark" alt="GitHub Profile Summary"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iglessias&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iglessias&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
