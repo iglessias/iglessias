@@ -33,7 +33,7 @@ const henokh: Developer = {
     askMeAbout: ["Web Dev", "AI", "Chatbots", "Tech Innovation"],
     technologies: {
         frontend: {
-            js: ["React", "Next.js", "Vue.js"],
+            js: ["React", "Next.js"],
             css: ["TailwindCSS", "Bootstrap", "Styled Components"],
         },
         backend: {
@@ -56,7 +56,7 @@ const henokh: Developer = {
 
 ---
 
-## 🛠️ Tech Arsenal & Skills
+## 🛠️ Tech & Skills
 
 <div align="center">
 
@@ -72,7 +72,7 @@ const henokh: Developer = {
 
 ### 🗄️ Database & Cloud
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,aws,firebase&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" />
 </p>
 
 ### 🤖 AI & Machine Learning
@@ -125,7 +125,7 @@ const henokh: Developer = {
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">🤖 PolCaBot - AI Academic Assistant</h3>
+<h3 align="center">🤖 PolCaBot - AI Chatbot Academy</h3>
 <div align="center">  
 <a href="#" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="#" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
