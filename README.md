@@ -29,23 +29,22 @@
 const henokh: Developer = {
     name: "Henokh Iglessias Hutasoit",
     location: "Batam, Indonesia 🇮🇩",
-    code: ["JavaScript", "Python", "TypeScript", "SQL", "PHP"],
-    askMeAbout: ["Web Dev", "AI/ML", "Chatbots", "Tech Innovation"],
+    code: ["JavaScript", "Python", "SQL", "PHP"],
+    askMeAbout: ["Web Dev", "AI", "Chatbots", "Tech Innovation"],
     technologies: {
         frontend: {
             js: ["React", "Next.js", "Vue.js"],
             css: ["TailwindCSS", "Bootstrap", "Styled Components"],
-            ui: ["Material-UI", "Ant Design", "Chakra UI"]
         },
         backend: {
             js: ["Node.js", "Express.js"],
             php: ["Laravel"],
-            python: ["FastAPI", "Flask"],
-            api: ["RESTful", "GraphQL", "WebSocket"]
+            python: ["Flask"],
+            api: ["RESTful", "GraphQL"]
         },
-        database: ["MySQL", "PostgreSQL", "MongoDB", "Redis"],
+        database: ["MySQL", "PostgreSQL"],
         ai_ml: ["TensorFlow", "PyTorch", "Scikit-learn", "OpenAI API", "Ollama"],
-        devOps: ["Docker", "Git", "Linux", "AWS"],
+        devOps: [ "Git", "Linux", "AWS"],
         tools: ["VS Code", "Postman", "Figma", "Notion"]
     },
     currentProject: "Building intelligent AI chatbots with Deepseek model",
@@ -73,7 +72,7 @@ const henokh: Developer = {
 
 ### 🗄️ Database & Cloud
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,docker,aws,gcp,firebase&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,aws,firebase&theme=dark" />
 </p>
 
 ### 🤖 AI & Machine Learning
@@ -210,7 +209,7 @@ Community-driven reporting platform for urban management in Batam with real-time
 [![Twitter](https://img.shields.io/badge/Twitter-Follow%20Me-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
 
 ### 💬 Ask me about anything related to:
-**Web Development** • **AI/ML** • **Chatbot Development** • **Open Source** • **Tech Innovation**
+**Web Development** • **AI** • **Chatbot Development** • **Open Source** • **Tech Innovation**
 
 </div>
 
